@@ -1,0 +1,15 @@
+/Users/annagolikova/С# Семинар 4/Задача 23/bin/Debug/net6.0/Задача 23
+/Users/annagolikova/С# Семинар 4/Задача 23/bin/Debug/net6.0/Задача 23.deps.json
+/Users/annagolikova/С# Семинар 4/Задача 23/bin/Debug/net6.0/Задача 23.runtimeconfig.json
+/Users/annagolikova/С# Семинар 4/Задача 23/bin/Debug/net6.0/Задача 23.dll
+/Users/annagolikova/С# Семинар 4/Задача 23/bin/Debug/net6.0/Задача 23.pdb
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.csproj.AssemblyReference.cache
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.AssemblyInfoInputs.cache
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.AssemblyInfo.cs
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.dll
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/refint/Задача 23.dll
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.pdb
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/Задача 23.genruntimeconfig.cache
+/Users/annagolikova/С# Семинар 4/Задача 23/obj/Debug/net6.0/ref/Задача 23.dll
