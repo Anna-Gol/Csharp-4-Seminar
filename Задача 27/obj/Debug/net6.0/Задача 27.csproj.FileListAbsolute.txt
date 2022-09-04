@@ -1,0 +1,15 @@
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.csproj.AssemblyReference.cache
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.AssemblyInfoInputs.cache
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.AssemblyInfo.cs
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# Семинар 4/Задача 27/bin/Debug/net6.0/Задача 27
+/Users/annagolikova/С# Семинар 4/Задача 27/bin/Debug/net6.0/Задача 27.deps.json
+/Users/annagolikova/С# Семинар 4/Задача 27/bin/Debug/net6.0/Задача 27.runtimeconfig.json
+/Users/annagolikova/С# Семинар 4/Задача 27/bin/Debug/net6.0/Задача 27.dll
+/Users/annagolikova/С# Семинар 4/Задача 27/bin/Debug/net6.0/Задача 27.pdb
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.dll
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/refint/Задача 27.dll
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.pdb
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/Задача 27.genruntimeconfig.cache
+/Users/annagolikova/С# Семинар 4/Задача 27/obj/Debug/net6.0/ref/Задача 27.dll
