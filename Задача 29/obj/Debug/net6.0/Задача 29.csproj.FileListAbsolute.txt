@@ -1,0 +1,15 @@
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.csproj.AssemblyReference.cache
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.AssemblyInfoInputs.cache
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.AssemblyInfo.cs
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# Семинар 4/Задача 29/bin/Debug/net6.0/Задача 29
+/Users/annagolikova/С# Семинар 4/Задача 29/bin/Debug/net6.0/Задача 29.deps.json
+/Users/annagolikova/С# Семинар 4/Задача 29/bin/Debug/net6.0/Задача 29.runtimeconfig.json
+/Users/annagolikova/С# Семинар 4/Задача 29/bin/Debug/net6.0/Задача 29.dll
+/Users/annagolikova/С# Семинар 4/Задача 29/bin/Debug/net6.0/Задача 29.pdb
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.dll
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/refint/Задача 29.dll
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.pdb
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/Задача 29.genruntimeconfig.cache
+/Users/annagolikova/С# Семинар 4/Задача 29/obj/Debug/net6.0/ref/Задача 29.dll
